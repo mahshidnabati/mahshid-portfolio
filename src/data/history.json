@@ -1,0 +1,59 @@
+[
+    {
+        "role": "Full Stack Web Developer ",
+        "organisation" :"Iran TVTO ",
+        "startDate" : "2019",
+        "endDate" : "Present",
+        "experiences" : [
+            "Managing all stages of Web site creations for clientele, from initial design and architecture to development, deployment, and management of Web sites",
+            "Developing specific JavaScript modules using (jQuery or Vanilla JS)",
+            "Developing applications in React including component design and state management for specific use cases",
+            "Analyzing, validating and proposing improvements to existing failures",
+            "Involvement in every step of process, from design, development, testing release changes and troubleshooting",
+            "Created Mobile Responsive User Experience with CSS Flexbox and Grid that allowed cross-platform accessibility to the website on any device with primary use on mobile",
+            "Developing documentation to teach new team members company standards and best practices in React.js",
+            "Collaborating with product team members to implement new feature developments",
+            "Standardized all output with a new, responsive, mobile-first approach and strategy",
+            "Developed and maintained Android and HTML5 mobile applications",
+            "Used SQLite in Android Applications",
+            "Conceptualizing, creating, and managing dynamic web pages for data display and entry using appropriate technologies (HTML, PHP, MySQL, and Web CMS)"
+        ],
+        "imageSrc" : "history/fani.png"
+    },
+    {
+        "role": "Front-end Web Developer",
+        "organisation" :"Iran TVTO",
+        "startDate" : "2017",
+        "endDate" : "2019",
+        "experiences" : [
+            "Developed user interfaces with modern JavaScript Libraries",
+            "Created accessible, responsive, and functional user interfaces to allow visitors on any device to have the same perfect user experience", 
+            "Translated designs and wireframes into high-quality code using HTML, CSS, and JavaScript",
+            "Created and deployed a range of Web-based products using JavaScript, React.js and jQuery"
+        ],
+        "imageSrc" : "history/fani.png"
+    },
+    {
+        "role": "Back-end Web Developer   ",
+        "organisation" :"Iran TVTO",
+        "startDate" : "2014",
+        "endDate" : "2017",
+        "experiences" : [
+            "Built efficient, testable, and reusable PHP modules",
+            "Created and deployed a CMS using PHP, MySQL for using more than 2000 clients",
+            "Developed codebase conforms to best practices with regard to coding standards, Validation (both on front-end and back-end), placement and flow of business logic, etc",
+            "Testing changes in local, development, and user acceptance environments",
+            "Adoption of more cutting-edge technologies by upgrading older projects when cost efficient"        
+        ],
+        "imageSrc" : "history/fani.png"
+    },
+    {
+        "role": "Trainer",
+        "organisation" :"Iran TVTO",
+        "startDate" : "2010",
+        "endDate" : "2014",
+        "experiences" : [
+            " Tutoring computer software engineering subjects in different workshops (duration: 3month each term) from basic concepts to advance. These workshops include: Web design (HTML5, CSS3 and Bootstrap) ,JavaScript Programming ,Relational Data Bases ,Data Structure ,PHP Programming ,Developing Websites with PHP and MySQL ,Learning jQuery ,Android Development ,Java Programming ,C# and Asp.Net ,SQL Server "],
+        "imageSrc" : "history/fani.png"
+    }
+]

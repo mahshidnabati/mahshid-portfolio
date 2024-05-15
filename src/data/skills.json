@@ -1,0 +1,79 @@
+[
+    {
+        "title" : "JavaScript",
+        "imageSrc" : "skills/js.png"
+    },
+    {
+        "title" : "React",
+        "imageSrc" : "skills/react.png"
+    },
+    {
+        "title" : "Redux",
+        "imageSrc" : "skills/redux.png"
+    },
+    {
+        "title" : "ECMAScript",
+        "imageSrc" : "skills/es.png"
+    },
+    {
+        "title" : "Next.js",
+        "imageSrc" : "skills/next.png"
+    },
+    {
+        "title" : "jQuery",
+        "imageSrc" : "skills/jquery.png"
+    },
+    {
+        "title" : "HTML5",
+        "imageSrc" : "skills/html5.png"
+    },
+    {
+        "title" : "CSS3",
+        "imageSrc" : "skills/css3.png"
+    },
+    {
+        "title" : "Tailwind CSS",
+        "imageSrc" : "skills/tailwind.png"
+    },
+    {
+        "title" : "Bootstrap",
+        "imageSrc" : "skills/bootstrap.png"
+    },
+    {
+        "title" : "PHP",
+        "imageSrc" : "skills/php.png"
+    },
+    {
+        "title" : "MySQL",
+        "imageSrc" : "skills/mysql.png"
+    },
+    {
+        "title" : "WordPress",
+        "imageSrc" : "skills/wordpress.png"
+    },
+    {
+        "title" : "AJAX",
+        "imageSrc" : "skills/ajax.png"
+    },{
+        "title" : "Python",
+        "imageSrc" : "skills/python.png"
+    },{
+        "title" : "Django",
+        "imageSrc" : "skills/django.png"
+    },{
+        "title" : "Node.js",
+        "imageSrc" : "skills/node.png"
+    },{
+        "title" : "Java",
+        "imageSrc" : "skills/java.png"
+    },{
+        "title" : "Android",
+        "imageSrc" : "skills/android.png"
+    },{
+        "title" : "SQLite",
+        "imageSrc" : "skills/sqlite.png"
+    },{
+        "title" : "XML",
+        "imageSrc" : "skills/xml.png"
+    }
+]

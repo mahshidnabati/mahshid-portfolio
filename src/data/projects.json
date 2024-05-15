@@ -1,0 +1,34 @@
+[
+    {
+        "title":"Perfect Recipe",
+        "imageSrc":"projects/recipe.png",
+        "description":"Perfect Recipe is an idea as a beautiful responsive  website template to share recipe.",
+        "skills":["Pure CSS","JavaScript"],
+        "demo": "https://mahshidnabati.github.io/perfect-recipe/",
+        "source": "https://github.com/mahshidnabati/perfect-recipe"
+    },
+    {
+        "title":"Portfolio website",
+        "imageSrc":"projects/portfolio.png",
+        "description":"It's a responsive website as a portfolio for everybody that want to share resume. All data on this sample fetch from json files.",
+        "skills":["React","Pure CSS","SASS"],
+        "demo": "hhttps://mahshidnabati.github.io/mahshid-portfolio/",
+        "source": "https://github.com/mahshidnabati/mahshid-portfolio"
+    },
+    {
+        "title":"MoonlitWitch Shop",
+        "imageSrc":"projects/shop.png",
+        "description":"MoonlitWitch Shop is an online shop sample which is created by react. Its features are fetching data from API, adding products to the cart and removing them using local storage technology.",
+        "skills":["React","Bootstrap"],
+        "demo": "https://mahshidnabati.github.io/online-shop/",
+        "source": "https://github.com/mahshidnabati/online-shop"
+    },
+    {
+        "title":"Matching Cards Game",
+        "imageSrc":"projects/cards.png",
+        "description":"Matching cards is a fun game. It is designed in three levels(easy,medium and hard). This game accounts your score, your mistakes and show the time. Try it it's fun...",
+        "skills":["JavaScript","Pure CSS"],
+        "demo": "https://mahshidnabati.github.io/MatchCards/",
+        "source": "https://github.com/mahshidnabati/MatchCards"
+    }
+]
