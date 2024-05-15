@@ -11,7 +11,7 @@
         "title":"Portfolio website",
         "imageSrc":"projects/portfolio.png",
         "description":"It's a responsive website as a portfolio for everybody that want to share resume. All data on this sample fetch from json files.",
-        "skills":["React","Pure CSS","SASS"],
+        "skills":["React","Vite","Pure CSS","SASS"],
         "demo": "hhttps://mahshidnabati.github.io/mahshid-portfolio/",
         "source": "https://github.com/mahshidnabati/mahshid-portfolio"
     },
