@@ -21,29 +21,29 @@
         "imageSrc" : "history/fani.png"
     },
     {
-        "role": "Front-end Web Developer",
+        "role": "Back-end Web Developer   ",
         "organisation" :"Iran TVTO",
         "startDate" : "2017",
         "endDate" : "2019",
-        "experiences" : [
-            "Developed user interfaces with modern JavaScript Libraries",
-            "Created accessible, responsive, and functional user interfaces to allow visitors on any device to have the same perfect user experience", 
-            "Translated designs and wireframes into high-quality code using HTML, CSS, and JavaScript",
-            "Created and deployed a range of Web-based products using JavaScript, React.js and jQuery"
-        ],
-        "imageSrc" : "history/fani.png"
-    },
-    {
-        "role": "Back-end Web Developer   ",
-        "organisation" :"Iran TVTO",
-        "startDate" : "2014",
-        "endDate" : "2017",
         "experiences" : [
             "Built efficient, testable, and reusable PHP modules",
             "Created and deployed a CMS using PHP, MySQL for using more than 2000 clients",
             "Developed codebase conforms to best practices with regard to coding standards, Validation (both on front-end and back-end), placement and flow of business logic, etc",
             "Testing changes in local, development, and user acceptance environments",
             "Adoption of more cutting-edge technologies by upgrading older projects when cost efficient"        
+        ],
+        "imageSrc" : "history/fani.png"
+    },
+    {
+        "role": "Front-end Web Developer",
+        "organisation" :"Iran TVTO",
+        "startDate" : "2014",
+        "endDate" : "2017",
+        "experiences" : [
+            "Developed user interfaces with modern JavaScript Libraries",
+            "Created accessible, responsive, and functional user interfaces to allow visitors on any device to have the same perfect user experience", 
+            "Translated designs and wireframes into high-quality code using HTML, CSS, and JavaScript",
+            "Created and deployed a range of Web-based products using JavaScript, React.js and jQuery"
         ],
         "imageSrc" : "history/fani.png"
     },
