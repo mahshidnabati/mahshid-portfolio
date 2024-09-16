@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import {useState} from 'react';
 import styles from "./Navbar.module.css"
 import {getImageUrl} from "../../utils"
 export const Navbar=()=>{
@@ -20,7 +20,6 @@ export const Navbar=()=>{
                 <ul className={`${styles.menuItems} ${menueOpen && styles.menuOpen}`} onClick={()=> setMenuOpen(false)}>
                     <li><a href='#about'>About</a></li>
                     <li><a href='#skills'>Skills</a></li>
-                    <li><a href='#experiences'>Experiences</a></li>
                     <li><a href='#projects'>Projects</a></li>
                     <li><a href='#contact'>Contact</a></li>
                 </ul>

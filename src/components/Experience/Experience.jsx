@@ -1,7 +1,7 @@
-import React from 'react';
+// import React from 'react';
 import styles from './Experience.module.css'
 import skills from "../../data/skills.json"
-import history from "../../data/history.json"
+// import history from "../../data/history.json"
 import { getImageUrl } from '../../utils';
 
 export const Experience=()=>{
@@ -22,7 +22,7 @@ export const Experience=()=>{
                     })}
                 </div>
             </div>
-            <h2 className={styles.title} id='experiences'>Experiences</h2>
+            {/* <h2 className={styles.title} id='experiences'>Experiences</h2>
             <ul className={styles.history}>
                 {history.map((historyItem, id)=>{
                     return(
@@ -45,7 +45,7 @@ export const Experience=()=>{
                         </li>
                     )
                 })}
-            </ul>
+            </ul> */}
         </section>
     )
  }

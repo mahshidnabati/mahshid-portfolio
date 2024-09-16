@@ -16,8 +16,28 @@
         "imageSrc" : "skills/es.png"
     },
     {
+        "title" : "Node.js",
+        "imageSrc" : "skills/node.png"
+    },
+    {
         "title" : "Next.js",
         "imageSrc" : "skills/next.png"
+    },
+    {
+        "title" : "C#",
+        "imageSrc" : "skills/csharp.png"
+    },
+    {
+        "title" : ".Net",
+        "imageSrc" : "skills/dotnet.png"
+    },
+    {
+        "title" : "Figma",
+        "imageSrc" : "skills/figma.png"
+    },
+    {
+        "title" : "Adobe XD",
+        "imageSrc" : "skills/adobexd.png"
     },
     {
         "title" : "jQuery",
@@ -60,9 +80,6 @@
     },{
         "title" : "Django",
         "imageSrc" : "skills/django.png"
-    },{
-        "title" : "Node.js",
-        "imageSrc" : "skills/node.png"
     },{
         "title" : "Java",
         "imageSrc" : "skills/java.png"
